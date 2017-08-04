@@ -1,0 +1,2 @@
+https://hackernoon.com/continuous-integration-circleci-vs-travis-ci-vs-jenkins-41a1c2bd95f5
+https://hackernoon.com/docker-tutorial-getting-started-with-python-redis-and-nginx-81a9d740d091
